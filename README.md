@@ -1,7 +1,7 @@
 ### Hi, I'm Eric Ko
 
-a Software Engineer looking to make life easier and more fun :)
+a Product Engineer looking to make life easier and more fun :)
 
-I enjoy exploring new tools, diving into systems, and solving challenging problems.
+I love turning ideas into polished apps and obsessing over the details until it feels just right.
 
 Learn more about me on my [website](https://ericko.dev).
