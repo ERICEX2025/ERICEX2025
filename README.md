@@ -1,4 +1,4 @@
-### Hi, I'm Eric Ko,
+### Hi, I'm Eric Ko
 
 a Product Engineer looking to make life easier and more fun :)
 
